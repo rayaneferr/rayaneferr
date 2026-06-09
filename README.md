@@ -41,6 +41,6 @@ I love exploring **AI**, **Data Science** and **Telecommunications**, turning da
 
 <br/>
 
-[![wakatime](https://wakatime.com/badge/user/2c78f19d-7d01-4fa5-b17a-ff5406dba5af.svg)](https://wakatime.com/@2c78f19d-7d01-4fa5-b17a-ff5406dba5af)
+[![wakatime](https://wakatime.com/badge/user/ecac6c61-855f-4ef1-bc8f-e01eabfb1a8a.svg)](https://wakatime.com/@ecac6c61-855f-4ef1-bc8f-e01eabfb1a8a)
 
 </div>
