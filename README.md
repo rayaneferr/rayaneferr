@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Rayane Ferrat!
+# 👋 Hi there, I'm Rayane!
 
 **Engineering student at [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/)**
 
