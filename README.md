@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Rayane!
+# Hi there, I'm Rayane!
 
 **AI Engineer · Machine Learning, LLM & Data Science**
 
@@ -8,14 +8,14 @@
 
 <br/>
 
-## 🚀 About Me
+## About Me
 
 I focus on signal processing, machine learning and data-driven systems. <br/>
 I love exploring **AI**, **Data Science** and **Telecommunications**, turning data into insight.
 
 <br/>
 
-## 💼 Latest Experience
+## Latest Experience
 
 **AI Engineer (intern) @ [Lucca](https://www.lucca-software.com/)** · *Mar – Sep 2026*
 
@@ -27,7 +27,7 @@ Deterministic scoring, latency & cost tracking, statistical noise analysis: <br/
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Main Languages & Tools**
 <br/>
