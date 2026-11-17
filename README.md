@@ -29,6 +29,7 @@ Deterministic scoring, latency & cost tracking, statistical noise analysis: <br/
 📄 [Project poster](https://rayaneferrat.me/docs/rapports/poster-lucca.pdf)
 
 <br/>
+
 ## Tech Stack
 
 **Main Languages & Tools**
