@@ -2,16 +2,19 @@
 
 # Hi there, I'm Rayane!
 
-**AI Engineer · Machine Learning, LLM & Data Science**
+**Data & AI Engineer · LLM, RAG & Machine Learning**
 
-*Telecommunications engineer from [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/)*
+*Engineering student at [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/) · Incoming Data / AI Consultant @ [mc2i](https://www.mc2i.fr/)*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rayaneferrat.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rayaneferrat.me)
 
 <br/>
 
 ## About Me
 
-I focus on signal processing, machine learning and data-driven systems. <br/>
-I love exploring **AI**, **Data Science** and **Telecommunications**, turning data into insight.
+I build and evaluate AI systems: LLM fine-tuning, retrieval-augmented generation and forecasting. <br/>
+I care about **reproducible benchmarks**: statistical tests, calibration, latency and cost, not just accuracy. <br/>
+My background in signal processing and applied maths shapes how I look at data.
 
 <br/>
 
@@ -23,7 +26,18 @@ Built an evaluation bench for LLM-based extraction of expense receipts (C#/.NET,
 Deterministic scoring, latency & cost tracking, statistical noise analysis: <br/>
 8 configurations compared, the selected one is now in production.
 
-📄 [Project poster](https://cv-rayane.vercel.app/docs/rapports/poster-lucca.pdf)
+📄 [Project poster](https://rayaneferrat.me/docs/rapports/poster-lucca.pdf)
+
+<br/>
+
+## Featured Projects
+
+| Project | What it does |
+|:--|:--|
+| 🏛️ **[agora-rag](https://github.com/rayaneferr/agora-rag)** | Semantic RAG over 601 French National Assembly sessions and 35k film synopses, served to Claude as MCP servers. bge-m3 + LanceDB, runs locally. |
+| 🧠 **[info-reg-bench](https://github.com/rayaneferr/info-reg-bench)** | Information-theoretic regularizers (VIB, label smoothing…) for LoRA fine-tuning of Qwen2.5 on MNLI → HANS. Label smoothing halves calibration error. |
+| ⚡ **[fr-power-forecast](https://github.com/rayaneferr/fr-power-forecast)** | Benchmark on French day-ahead electricity prices: 1,734-day rolling backtest, Diebold-Mariano tests, foundation models vs LEAR. |
+| 🪙 **[optimal-coin-system](https://github.com/rayaneferr/optimal-coin-system)** | Which 8 coins minimise the coins needed to pay? Exact branch-and-bound: 4.53 coins on average vs 5.90 for the euro. |
 
 <br/>
 
@@ -32,22 +46,24 @@ Deterministic scoring, latency & cost tracking, statistical noise analysis: <br/
 **Main Languages & Tools**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-**Other Languages**
-<br/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 **Data Science & ML**
 <br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+**Other Languages**
+<br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 
 <br/>
 
