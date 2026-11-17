@@ -29,18 +29,6 @@ Deterministic scoring, latency & cost tracking, statistical noise analysis: <br/
 📄 [Project poster](https://rayaneferrat.me/docs/rapports/poster-lucca.pdf)
 
 <br/>
-
-## Featured Projects
-
-| Project | What it does |
-|:--|:--|
-| 🏛️ **[agora-rag](https://github.com/rayaneferr/agora-rag)** | Semantic RAG over 601 French National Assembly sessions and 35k film synopses, served to Claude as MCP servers. bge-m3 + LanceDB, runs locally. |
-| 🧠 **[info-reg-bench](https://github.com/rayaneferr/info-reg-bench)** | Information-theoretic regularizers (VIB, label smoothing…) for LoRA fine-tuning of Qwen2.5 on MNLI → HANS. Label smoothing halves calibration error. |
-| ⚡ **[fr-power-forecast](https://github.com/rayaneferr/fr-power-forecast)** | Benchmark on French day-ahead electricity prices: 1,734-day rolling backtest, Diebold-Mariano tests, foundation models vs LEAR. |
-| 🪙 **[optimal-coin-system](https://github.com/rayaneferr/optimal-coin-system)** | Which 8 coins minimise the coins needed to pay? Exact branch-and-bound: 4.53 coins on average vs 5.90 for the euro. |
-
-<br/>
-
 ## Tech Stack
 
 **Main Languages & Tools**
